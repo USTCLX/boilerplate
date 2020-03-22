@@ -1,0 +1,2 @@
+# boilerplate
+SSR boilerplate
